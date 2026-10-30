@@ -120,7 +120,7 @@ You can DIY Headless Nick by following this schematic:
 
 **Big** shoutout to **REDHAT** (Surya Rapeti) for re-sizing the PCB (made it smaller), adding resistors and the capacitor necessary for the MicroSD card tray to work right and troubleshooting the PCB design software that was used to create Headless Nick.
 
-**Big** shoutout to **DUGGIE TECH** for walking me initiating and mentoring me through the process of designing the 3D printed case for Headless Nick.
+**Big** shoutout to **DUGGIE TECH** for initiating and mentoring me through the process of designing the 3D printed case for Headless Nick.
 
 **HUGE** shoutout to the [**GhostESP: Revival**](https://github.com/GhostESP-Revival/GhostESP) project for being the spirit that I designed Headless Nick to possess 👻
 
