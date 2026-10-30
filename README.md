@@ -122,7 +122,7 @@ You can DIY Headless Nick by following this schematic:
 
 **Big** shoutout to **DUGGIE TECH** for initiating and mentoring me through the process of designing the 3D printed case for Headless Nick.
 
-**HUGE** shoutout to the [**GhostESP: Revival**](https://github.com/GhostESP-Revival/GhostESP) project for being the spirit that I designed Headless Nick to possess 👻
+**HUGE** shoutout to the [**GhostESP: Revival**](https://github.com/GhostESP-Revival/GhostESP) project for being the spirit that I designed Headless Nick to be possessed by 👻
 
 
 ## :warning: License
